@@ -18,4 +18,5 @@ Sushma Akoju (username: sua) - top ranked and Waad Alharthi (username: Waad) wer
 
 
 ![semeval-ranked-top-1](https://github.com/sushmaakoju/nlp-final-2021-pcl-semeval2022-task/assets/8979477/60caa229-23fd-4e9f-9985-6ab47ed8502b)
-   
+
+Note: We did not participate in the second round of SemEval 2022 due to an injury to one of us. 
