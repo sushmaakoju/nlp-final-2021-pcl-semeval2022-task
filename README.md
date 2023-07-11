@@ -15,6 +15,6 @@ We are a team of 2: Sushma Akoju and Waad Alharthi. Each of us explored broadly 
  - Determining words that contribute towards PCL and adding extra features and adding probability of agreement/disagreement for sampling with   10% shuffling between the two. And use this as a feature. And explore Custom Named Entity extraction for PCL words and work out the
    classification approach (just by taking max number of PCL entities in a test sentence). (using SpaCY ) - Sushma Akoju
 
-
-
+Sushma Akoju (username: sua) - top ranked and Waad Alharthi (username: Waad) were in top 5.
+![semeval-ranked-top-1](https://github.com/sushmaakoju/nlp-final-2021-pcl-semeval2022-task/assets/8979477/57fd4a77-59bc-47be-92e7-1bf3dadfdde4)
    
