@@ -16,5 +16,7 @@ We are a team of 2: Sushma Akoju and Waad Alharthi. Each of us explored broadly 
    classification approach (just by taking max number of PCL entities in a test sentence). (using SpaCY ) - Sushma Akoju
 
 Sushma Akoju (username: sua) - top ranked and Waad Alharthi (username: Waad) were in top 5.
-![semeval-ranked-top-1](https://github.com/sushmaakoju/nlp-final-2021-pcl-semeval2022-task/assets/8979477/57fd4a77-59bc-47be-92e7-1bf3dadfdde4)
+
+
+![semeval-ranked-top-1](https://github.com/sushmaakoju/nlp-final-2021-pcl-semeval2022-task/assets/8979477/60caa229-23fd-4e9f-9985-6ab47ed8502b)
    
