@@ -2,6 +2,9 @@
 
 ## NLP Fall 2021, CU Boulder Final project, December 2021 - SemEval 2022 PCL Task 4 
 
+## Acknowledgements
+We are thankful for the Prof. James H. Martin's lectures during Natural Language Processing course, University of Colorado Boulder.
+
 ### References: 
 1. <a href="https://sites.google.com/view/pcl-detection-semeval2022/">SemEval 2022 Patronizing and Condescending Language Detection (PCL) Task 4</a>
 2. <a href="https://github.com/Perez-AlmendrosC/dontpatronizeme">dontpatronizeme Dataset : Patronizing and Condescending Language Detection</a>
