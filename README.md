@@ -13,7 +13,7 @@ We are a team of 2: Sushma Akoju and Waad Alharthi. Each of us explored broadly 
 
  - Using pre-trained RoBERTa to finetune and classify binary PCL (HuggingFace) - **Sushma Akoju**
  - Using pre-trained SpanBERT, KeyBERT to finetune and classify binary PCL (Huggingface) -  **Sushma Akoju**
-  - Using pre-trained BERT to finetune and classify binary PCL (HuggingFace) - **Waad Alharthi**
+  - Using pre-trained BERT to finetune and classify multi-label classification PCL (HuggingFace) - **Waad Alharthi**
  - Determining words that contribute towards PCL and adding extra features and adding probability of agreement/disagreement for sampling with   10% shuffling between the two. And use this as a feature. And explore Custom Named Entity extraction for PCL words and work out the
    classification approach (just by taking max number of PCL entities in a test sentence). (using SpaCY ) - **Sushma Akoju**
 
