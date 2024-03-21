@@ -22,7 +22,7 @@ We are a team of 2: Sushma Akoju and Waad Alharthi. Each of us explored broadly 
    
 #### Waad Alharthi
 
- - Using pre-trained BERT to finetune and classify **binary** and **multi-label classification** PCL (HuggingFace) - **Waad Alharthi**
+ - Using pre-trained BERT to finetune and classify **binary** PCL (HuggingFace) - **Waad Alharthi**
  - Using pre-trained BERT to finetune and classify **multi-label classification** PCL (HuggingFace) - **Waad Alharthi**
 
 **SU**shma **A**koju (username: **sua**) - scores ranked 1 and **Waad** Alharthi (username: **Waad**) scores ranked 5 @ SemEval PCL task Round 1, Dec 2021.
