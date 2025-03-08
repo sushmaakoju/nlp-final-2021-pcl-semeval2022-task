@@ -2,6 +2,9 @@
 
 ## NLP Fall 2021, CU Boulder Final project, December 2021 - SemEval 2022 PCL Task 4 
 
+## Code of conduct
+The software code provided here is implicitly expected not to be replicated for homeworks, assignments or any other programming work. It is welcome to take inspiration, but it is implicitly expected to cite this resource if used for learning, inspiration esp. for any homeworks/projects purposes to respect the policies of your respective institution and the academic integrity for your class. Please refer <a href="https://github.com/sushmaakoju/nlp-final-2021-pcl-semeval2022-task/blob/main/CODE_OF_CONDUCT.md"> code of conduct</a>.
+
 ## Acknowledgements
 We are thankful for the Prof. James H. Martin's lectures during Natural Language Processing course, University of Colorado Boulder.
 
